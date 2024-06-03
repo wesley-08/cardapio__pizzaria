@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.cardápio {
+  font-family: "slackey";
+  font-size: xx-large;
+}
+
+.titulo,
+.doces,
+.bebe {
+  font-family: "Swanky and Moo Moo";
+  font-size: larger;
+}
+
+.suco,
+.opcoes,
+.pizzas,
+.bebidas {
+  font-family: "Rajdhani";
+  font-size: larger;
+}
+
+h2 {
+  color: rgb(255, 0, 0);
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+.codigo {
+  border: solid 20px;
+  width: 500px;
+  padding: 100px;
+  height: 1350px;
+}
+
+/*# sourceMappingURL=style.css.map */

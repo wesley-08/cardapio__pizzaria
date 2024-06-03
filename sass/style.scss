@@ -1,0 +1,48 @@
+$font-slackey: "slackey";
+$font-swanky: "Swanky and Moo Moo";
+$font-rajdhani: "Rajdhani";
+$color-red: rgb(255, 0, 0);
+$color-black: rgb(0, 0, 0);
+$color-white: rgb(255, 255, 255);
+$border-width: 20px;
+$container-width: 500px;
+$container-padding: 100px;
+$container-height: 1350px;
+$font-size-xx-large: xx-large;
+$font-size-larger: larger;
+
+.cardápio {
+    font-family: $font-slackey;
+    font-size: $font-size-xx-large;
+}
+
+.titulo,
+.doces,
+.bebe {
+    font-family: $font-swanky;
+    font-size: $font-size-larger;
+}
+
+.suco,
+.opcoes,
+.pizzas,
+.bebidas {
+    font-family: $font-rajdhani;
+    font-size: $font-size-larger;
+}
+
+h2 {
+    color: $color-red;
+}
+
+body {
+    background-color: $color-black;
+    color: $color-white;
+}
+
+.codigo {
+    border: solid $border-width;
+    width: $container-width;
+    padding: $container-padding;
+    height: $container-height;
+}
