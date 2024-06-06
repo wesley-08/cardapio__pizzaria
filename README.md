@@ -7,7 +7,7 @@ forma rapida e pratica
 
 ## PARA FAZER SEU PEDIDO E SÓ SEGUIR AS ORIENTAÇÕES ABAIXO
 - para fazer seu pedido basta apenas digitar seu nome e colocar
-o endereço onde você vai querer seu pedido e qual vai ser o pedido
-- sabor da pizza  alguma bebida se preferir 
+o endereço onde você vai querer seu pedido e qual vai ser a sua escolha de pizza e bebida
+  
 - após isso seu pedido vai ser feito e a pizzaria vai preparar o seu pedido 
 e vai entrega-lo de acordo com o endereço que você colocou no pedido.
